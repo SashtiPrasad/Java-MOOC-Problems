@@ -1,10 +1,14 @@
 import java.util.Scanner;
 
-public class Squared{
+public class AreWeThereYet {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
 
         int input=scanner.nextInt();
-        System.out.println(input*input);
+
+        while(input!=4){
+            System.out.println("Give a number:");
+            input=scanner.nextInt();
+        }
     }
 }
