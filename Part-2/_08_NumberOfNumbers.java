@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumberOfNumbers {
+public class _08_NumberOfNumbers {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int numbers=0;

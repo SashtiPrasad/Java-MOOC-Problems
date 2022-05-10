@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FromWhereToWhere {
+public class _16_FromWhereToWhere {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         System.out.print("Where to? ");

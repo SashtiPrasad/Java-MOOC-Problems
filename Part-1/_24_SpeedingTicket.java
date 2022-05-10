@@ -1,13 +1,14 @@
 import java.util.Scanner;
 
-public class _14_Counting {
+public class _24_SpeedingTicket {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
 
+        System.out.println("Give speed:");
         int input=scanner.nextInt();
 
-        for(int x=0;x<=input;x++){
-            System.out.println(x);
+        if(input>120){
+            System.out.println("Speeding ticket!");
         }
     }
 }

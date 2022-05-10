@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumberOfNegativeNumbers {
+public class _09_NumberOfNegativeNumbers {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int negnum=0;

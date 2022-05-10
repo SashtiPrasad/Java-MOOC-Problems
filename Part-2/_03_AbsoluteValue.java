@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AbsoluteValue {
+public class _03_AbsoluteValue {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
 

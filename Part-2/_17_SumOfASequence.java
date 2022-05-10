@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SumOfASequence {
+public class _17_SumOfASequence {
     public static void main(String[] args) {
         System.out.print("Last number? ");
         Scanner scanner=new Scanner(System.in);

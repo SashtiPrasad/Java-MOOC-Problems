@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ComparingNumbers {
+public class _04_ComparingNumbers {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
 

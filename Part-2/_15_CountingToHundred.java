@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CountingToHundred {
+public class _15_CountingToHundred {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
 
